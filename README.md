@@ -18,6 +18,6 @@ SCP:SL 服务器查询插件
 WebUI 或 docker logs 搜 [SLQuery]，可看到 API 原始响应和解析数据
 
 作者：DNT_OF
-版本：1.0.0
+版本：1.0.1
 
 欢迎使用Issue提交更多改进想法
