@@ -12,7 +12,7 @@ SCP:SL 服务器查询插件
 ## 安装
 1. 放入 plugins/astrbot_plugin_sl_query/
 2. 重启 AstrBot
-3. 用 /bind 绑定（id 必须是 !id 返回的数字）
+3. 用 /bind 绑定（id 必须是 !id 返回的Account ID）
 
 ## 日志查看
 WebUI 或 docker logs 搜 [SLQuery]，可看到 API 原始响应和解析数据
