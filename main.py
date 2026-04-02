@@ -14,7 +14,7 @@ from typing import Dict, Any, List, Optional
     "astrbot_plugin_sl_query",
     "DNT_OF",
     "SCP:SL 服务器查询插件 - 支持官方API + EXILED实时数据双源",
-    "1.0.2",
+    "1.5.5",
     "https://github.com/DNTOF/astrbot_plugin_sl_query"
 )
 class SLQueryPlugin(Star):
