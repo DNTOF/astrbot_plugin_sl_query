@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+
+name: astrbot_plugin_sl_query 
+display_name: SCP:SL 服务器信息查询  
+desc: 通过 ServerKey 查询 SCP:SL 服务器信息  
+version: v1.0.1  
+author: DNT_OF  
+repo: https://github.com/DNTOF/astrbot_plugin_sl_query  
+
+=======
+
+name: astrbot_plugin_sl_query 
+display_name: SCP:SL 服务器信息查询  
+desc: 通过 ServerKey 和 Exiled插件服务端 查询 SCP:SL 服务器信息  
+version: v1.0.2  
+author: DNT_OF  
+repo: https://github.com/DNTOF/astrbot_plugin_sl_query  
+
+>>>>>>> 3d59563 (更新至1.0.2版本)
